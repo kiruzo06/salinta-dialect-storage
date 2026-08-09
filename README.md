@@ -1,1 +1,0 @@
-# salinta-dialect-storage
